@@ -1,0 +1,3 @@
+funcao ola_mundo()
+    exibir("Olá, Mundo!")
+fim

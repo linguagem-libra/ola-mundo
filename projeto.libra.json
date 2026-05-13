@@ -1,0 +1,12 @@
+{
+  "nome": "Ola Mundo",
+  "versao": "0.1.0",
+  "descricao": "Apenas um simples Ola Mundo em Libra",
+  "autores": [],
+  "licenca": "SEM LICENÇA",
+  "raiz": ".",
+  "codigoPrincipal": "ola_mundo.libra",
+  "opcoesMotor": {
+    "modoEstrito": true
+  }
+}
